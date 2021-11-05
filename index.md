@@ -5,7 +5,7 @@
 #### 学校： 青岛大学（系统科学硕士在读）
 #### 邮箱： lugh56.2007@163.com
 ### 目前研究兴趣
-多智能体系统分布式控制、多智能体系统基于图论的性能分析、复杂网络建模与主干网络提取、工业过程控制
+多智能体系统分布式控制、多智能体系统基于图论的性能分析、复杂网络建模与主干网络提取
 ### 已取得成果
 [1]Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability and observability of linear multi-agent systems over matrix-weighted signed networks.Under review
 
