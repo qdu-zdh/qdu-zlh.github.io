@@ -5,9 +5,9 @@
 #### 学校： 青岛大学（系统科学硕士在读）
 #### 邮箱： lugh56.2007@163.com
 ### 基本情况介绍
-2014-2018年在山东科技大学（泰安）自动化专业学习，2019年至今在青岛大学自动化学院攻读系统科学理学硕士学位，，目前为止发表中英文学术论文5篇。业余时间运营知乎“系统与控制”账号，获得近四百万阅读量，作为主要参与者的《控制理论结构图》系列工作在国内外收获大量反馈和支持。
+2014-2018年在山东科技大学（泰安）自动化专业学习，2019年至今在青岛大学自动化学院攻读系统科学理学硕士学位，目前为止发表或完成学术论文3篇。业余时间运营知乎“系统与控制”账号，获得近四百万阅读量，作为主要参与者的《控制理论结构图》系列工作在国内外收获大量反馈和支持。
 ### 目前研究兴趣
-多智能体系统分布式控制、多智能体系统基于图论的性能分析、复杂网络建模与主干网络提取
+多智能体系统分布式控制、多智能体系统基于图论的性能分析、复杂网络建模与主干网络提取等。
 ### 已取得成果
 [1]Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability and observability of linear multi-agent systems over matrix-weighted signed networks.Under review
 
@@ -15,11 +15,15 @@
 
 [3]赵兰浩,纪志坚.符号网络条件下扩散耦合多智能体系统的可控性分析[J].系统科学与数学,2021,41(06):1455-1466.
 
-[4]赵兰浩.具有视力保护功能的智能台灯设计[J].山东工业技术,2018(21):125.
+### 目前从事研究
 
-[5]赵兰浩.短波通信技术发展综述[J].信息通信,2017(11):257-258.
+1、Model reduction of heterogeneous matrix weighted networks with time-delay based on graph partition
 
-[6]赵兰浩,董鑫,孙晔.基于串级控制的密码锁安全性优化[J].电子世界,2017(05):94+96.
+2、Controllability of matrix weighted multiagent systems with time delay and heterogeneous system
+
+3、A network design method for multi-consenus based on equitable partition
+
+4、Edge Homogeneous Network(EHN):Bridge between Scalar-Weighted Network and Matrix-Weighted Network
 
 ### 荣誉奖励
 竞赛方面：“认证杯”数学中国数学建模网络挑战赛三等奖两次、高教社杯全国大学生数学建模竞赛省级三等奖一次、美国大学生数学建模比赛三等奖一次等。
