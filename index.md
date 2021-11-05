@@ -21,13 +21,13 @@
 
 ### 目前从事研究
 
-1、Model reduction of heterogeneous matrix weighted networks with time-delay based on graph partition
+1、等价划分方法在时滞、异构网络化系统模型降阶中的应用
 
-2、Controllability of matrix weighted multiagent systems with time delay and heterogeneous system
+2、矩阵权重网络条件下的结构平衡定义探索
 
-3、A network design method for multi-consenus based on equitable partition
+3、矩阵权重网络与标量权重网络的互相转化：过渡系统的构建
 
-4、Edge Homogeneous Network(EHN):Bridge between Scalar-Weighted Network and Matrix-Weighted Network
+4、超图在多智能体系统中的新应用
 
 ### 荣誉奖励
 竞赛方面：“认证杯”数学中国数学建模网络挑战赛三等奖两次、高教社杯全国大学生数学建模竞赛省级三等奖一次、美国大学生数学建模比赛三等奖一次等。
