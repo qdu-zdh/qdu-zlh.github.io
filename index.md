@@ -14,7 +14,8 @@
 
 
 ### 论文列表
-[1]Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability and observability of linear multi-agent systems over matrix-weighted signed networks.Under review
+[1]Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability and observability of linear multi-agent systems over matrix-weighted signed networks.
+https://doi.org/10.48550/arXiv.2204.00995
 
 [2]Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability of general linear discrete multiagent systems with directed and weighted signed network[J]. Journal of Systems Science & Complexity. Accept.
 
