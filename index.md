@@ -1,19 +1,21 @@
-## 个人主页
-### 个人信息
-姓名：赵兰浩
+## LANHAO ZHAO
+### Personal profile
+Name:Lanhao Zhao
+Email： lugh56.2007@163.com
 
-联系邮箱： lugh56.2007@163.com
+I was born in January 1996. In 2018, I received a bachelor's degree in automation from Shandong University of Science and Technology. I have been pursuing a master's degree in systems science from Qingdao University since 2019. I have published or completed 6 papers, and my main research interests are multi-agent systems and complex networks. In my spare time, I operate the "System and Control" account on Zhihu.com, and completed a series of work on the structure diagram of control theory.
 
-### 基本情况介绍
 1996年1月生，2018年获山东科技大学自动化专业工学学士学位，2019年至今在青岛大学攻读系统科学理学硕士学位。目前发表或完成相关论文6篇，主要研究方向为多智能体系统与复杂网络，业余时间运营知乎网“系统与控制”账号，在国内外相关学者的合作下完成《控制理论结构图》系列工作，整理完成《自动化学科科普手册》系列版本。
 
-### 学术兼职
-中国自动化学会第十届普及工作委员会 委员
+### TITLE
+Member of the 10th Popularization Working Committee of the Chinese Association of Automation
+Member of the "Intelligent Future" Automation and Artificial Intelligence Science Expert Group of the Chinese Association of Automation
 
+中国自动化学会第十届普及工作委员会 委员
 中国自动化学会“智向未来”自动化与人工智能科普专家团 成员
 
 
-### 论文列表
+### PUBLICATION
 [1]Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability and observability of linear multi-agent systems over matrix-weighted signed networks.
 https://doi.org/10.48550/arXiv.2204.00995
 
