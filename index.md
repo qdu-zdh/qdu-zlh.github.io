@@ -15,18 +15,21 @@ Member of the CAA(Chinese Association of Automation) 10th Working Committee on S
 
 
 ### PUBLICATION
-[1]Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability and observability of linear multi-agent systems over matrix-weighted signed networks.
+[1]Zhao lanhao. Estimation of Strong Structural Controllable Subspace of Network: Equitable Partition Method.
+https://doi.org/10.48550/arXiv.2204.11483
+
+[2]Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability and observability of linear multi-agent systems over matrix-weighted signed networks.
 https://doi.org/10.48550/arXiv.2204.00995
 
-[2]Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability of general linear discrete multiagent systems with directed and weighted signed network[J]. Journal of Systems Science & Complexity. Accept.
+[3]Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability of general linear discrete multiagent systems with directed and weighted signed network[J]. Journal of Systems Science & Complexity. Accept.
 
-[3]赵兰浩,纪志坚.符号网络条件下扩散耦合多智能体系统的可控性分析[J].系统科学与数学,2021,41(06):1455-1466.
+[4]赵兰浩,纪志坚.符号网络条件下扩散耦合多智能体系统的可控性分析[J].系统科学与数学,2021,41(06):1455-1466.
 
-[4]赵兰浩.具有视力保护功能的智能台灯设计[J].山东工业技术,2018(21):125.
+[5]赵兰浩.具有视力保护功能的智能台灯设计[J].山东工业技术,2018(21):125.
 
-[5]赵兰浩.短波通信技术发展综述[J].信息通信,2017(11):257-258.
+[6]赵兰浩.短波通信技术发展综述[J].信息通信,2017(11):257-258.
 
-[6]赵兰浩,董鑫,孙晔.基于串级控制的密码锁安全性优化[J].电子世界,2017(05):94+96.
+[7]赵兰浩,董鑫,孙晔.基于串级控制的密码锁安全性优化[J].电子世界,2017(05):94+96.
 
 ### Research interests
 1. Generalized matrix weight network and its new features
