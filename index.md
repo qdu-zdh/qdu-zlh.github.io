@@ -34,11 +34,11 @@ https://doi.org/10.48550/arXiv.2204.00995
 [7]赵兰浩,董鑫,孙晔.基于串级控制的密码锁安全性优化[J].电子世界,2017(05):94+96.
 
 ### Research interests
-1. Generalized matrix weight network and its new features
+1. Matrix weighted network
 
-2. Research on clustering consensus method
+2. Cluster consensus
 
-3. Research on order reduction method of networked system
+3. Order reduction method of networked system
 
 1、广义矩阵权重网络及其新特性
 
