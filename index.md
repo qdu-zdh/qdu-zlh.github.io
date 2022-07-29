@@ -4,11 +4,13 @@ Name:Lanhao Zhao
 
 Email： lugh56.2007@163.com
 
-I was born in January 1996. I received a bachelor's degree in automation from Shandong University of Science and Technology in 2018 and master's degree in systems science from Qingdao University in 2022. I have published or completed 6 papers, and my main research interests are multi-agent systems and complex networks. In my spare time, I operate the "Systems and Control（系统与控制）" account on www.Zhihu.com, and completed a series of work on the structure diagram of control theory.
+I was born in January 1996. I received a bachelor's degree in automation from Shandong University of Science and Technology in 2018 and master's degree in systems science from Qingdao University in 2022. I am currently studying for my Ph.D. in control science and engineering at the school of artificial intelligence and automation, Department of information science, Beijing University of technology.
 
-1996年1月生，2018年获山东科技大学自动化专业工学学士学位，2022年获青岛大学系统科学理学硕士学位。
+I have published or completed 10 papers, and my main research interests are multi-agent systems and complex networks. In my spare time, I operate the "Systems and Control（系统与控制）" account on www.Zhihu.com, and completed a series of work on the structure diagram of control theory.
 
-目前发表或完成相关论文6篇，主要研究方向为多智能体系统与复杂网络，业余时间运营知乎网“系统与控制”账号，在国内外相关学者的合作下完成《控制理论结构图》系列工作，整理完成《自动化学科科普手册》系列版本。
+1996年1月生，2018年获山东科技大学自动化专业工学学士学位，2022年获青岛大学系统科学理学硕士学位。2022年起在北京工业大学信息学部人工智能与自动化学院攻读控制科学与工程 工学博士学位。
+
+目前发表或完成相关论文10篇，主要研究方向为多智能体系统与复杂网络，业余时间运营知乎网“系统与控制”账号，在国内外相关学者的合作下完成《控制理论结构图》系列工作，整理完成《自动化学科科普手册》系列版本。
 
 ### TITLE
 Member of the CAA(Chinese Association of Automation) 10th Working Committee on Science Communication 
@@ -16,7 +18,7 @@ Member of the CAA(Chinese Association of Automation) 10th Working Committee on S
 中国自动化学会第十届普及工作委员会 委员
 
 
-### PUBLICATION
+### PUBLICATION OF RESEARCH
 [1]Zhao lanhao. Estimation of Strong Structural Controllable Subspace of Network: Equitable Partition Method.
 https://doi.org/10.48550/arXiv.2204.11483
 
@@ -32,6 +34,14 @@ https://doi.org/10.48550/arXiv.2204.00995
 [6]赵兰浩.短波通信技术发展综述[J].信息通信,2017(11):257-258.
 
 [7]赵兰浩,董鑫,孙晔.基于串级控制的密码锁安全性优化[J].电子世界,2017(05):94+96.
+
+### PUBLICATION OF SCIENCE COMMUNICATION
+
+[1]赵兰浩.详解自动化专业的就业方向与前景[J].中国自动化学会通讯,2022(06):76-80
+
+[2]赵兰浩.选择自动化专业应该知道的事情[J].中国自动化学会通讯,2022(06):81-83
+
+[3]赵兰浩.写给选择自动化专业的新人[J].中国自动化学会通讯,2022(06):84-87
 
 ### Research interests
 1. Matrix weighted network
