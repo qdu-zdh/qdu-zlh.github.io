@@ -25,7 +25,7 @@ https://doi.org/10.48550/arXiv.2204.11483
 [2]Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability and observability of linear multi-agent systems over matrix-weighted signed networks.
 https://doi.org/10.48550/arXiv.2204.00995
 
-[3]Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability of general linear discrete multiagent systems with directed and weighted signed network[J]. Journal of Systems Science & Complexity. Accept.
+[3]Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability of General Linear Discrete Multiagent Systems with Directed and Weighted Signed Network. J Syst Sci Complex (2022). https://doi.org/10.1007/s11424-022-1036-5
 
 [4]赵兰浩,纪志坚.符号网络条件下扩散耦合多智能体系统的可控性分析[J].系统科学与数学,2021,41(06):1455-1466.
 
