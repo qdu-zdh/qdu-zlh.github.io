@@ -4,9 +4,9 @@ Name:Lanhao Zhao
 
 Email： lugh56.2007@163.com
 
-I received a bachelor's degree in automation from Shandong University of Science and Technology in 2018 and master's degree in systems science from Qingdao University in 2022. I am currently studying for my Ph.D. in control science and engineering at the school of artificial intelligence and automation, Department of information science, Beijing University of technology. The main research interest is multi-agent systems and complex networks. Currently, 9 academic papers have been published in relevant journals and preprint websites. In my spare time, I run “System and Control”(系统与控制） account in www.zhihu.com, and published more than 200 popular science articles online, 6 of which were published in journals in the field of automation. Among them, the series of "Control Theory Structural Diagrams" has been read nearly a million times and has received high attention at home and abroad. Relevant popular science articles organize the series editions of "Automation Science Popularization Handbook".
+I received a bachelor's degree in automation from Shandong University of Science and Technology in 2018 and master's degree in systems science from Qingdao University in 2022. I am currently studying for my Ph.D. in control science and engineering at the school of artificial intelligence and automation, Department of information science, Beijing University of technology. The main research interest is multi-agent systems and complex networks. Currently, 8 academic papers have been published in relevant journals and preprint websites. In my spare time, I run “System and Control”(系统与控制） account in www.zhihu.com, and published more than 200 popular science articles online, 6 of which were published in journals in the field of automation. Among them, the series of "Control Theory Structural Diagrams" has been read nearly a million times and has received high attention at home and abroad. Relevant popular science articles organize the series editions of "Automation Science Popularization Handbook".
 
-2018年获山东科技大学自动化专业工学学士学位，2022年获青岛大学系统科学理学硕士学位。2022年起在北京工业大学信息学部人工智能与自动化学院攻读控制科学与工程工学博士学位。目前在相关期刊和预印本网站发表学术论文9篇，主要研究方向为多智能体系统与复杂网络，业余时间运营知乎网“系统与控制”账号，在线发布科学普及文章二百余篇，其中6篇被自动化领域科普期刊刊载。其中，在国内外相关学者的合作下完成的《控制理论结构图》系列工作，阅读量近百万次，受到国内外高度关注。相关科普文章整理《自动化学科科普手册》系列版本。
+2018年获山东科技大学自动化专业工学学士学位，2022年获青岛大学系统科学理学硕士学位。2022年起在北京工业大学信息学部人工智能与自动化学院攻读控制科学与工程工学博士学位。目前在相关期刊和预印本网站发表学术论文8篇，主要研究方向为多智能体系统与复杂网络，业余时间运营知乎网“系统与控制”账号，在线发布科学普及文章二百余篇，其中6篇被自动化领域科普期刊刊载。其中，在国内外相关学者的合作下完成的《控制理论结构图》系列工作，阅读量近百万次，受到国内外高度关注。相关科普文章整理《自动化学科科普手册》系列版本。
 
 ### PROFESSIONAL AFFILIATIONS AND ACTIVITIES
 Member of the CAA(Chinese Association of Automation) 10th Working Committee on Science Communication. Reviewer of China Automation Conference and Important academic conference catalogue of CAA, and Member of the expert group of artificial intelligence and automation science popularization of "Intelligence for the Future" of the CAA.
@@ -31,9 +31,9 @@ https://doi.org/10.48550/arXiv.2204.00995
 
 [6]赵兰浩.具有视力保护功能的智能台灯设计[J].山东工业技术,2018(21):125.
 
-[8]赵兰浩.短波通信技术发展综述[J].信息通信,2017(11):257-258.
+[7]赵兰浩.短波通信技术发展综述[J].信息通信,2017(11):257-258.
 
-[9]赵兰浩,董鑫,孙晔.基于串级控制的密码锁安全性优化[J].电子世界,2017(05):94+96.
+[8]赵兰浩,董鑫,孙晔.基于串级控制的密码锁安全性优化[J].电子世界,2017(05):94+96.
 
 ### PUBLICATION OF SCIENCE COMMUNICATION
 [1]赵兰浩.控制理论:一段故事(2)线性与非线性[J].中国自动化学会通讯，2023(5):49-53
