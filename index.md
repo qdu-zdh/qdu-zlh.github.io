@@ -17,39 +17,45 @@ Member of the CAA(Chinese Association of Automation) 10th Working Committee on S
 
 
 ### PUBLICATION OF RESEARCH
-[1]Chen Yangzhou, Zhao lanhao. Decentralized design of consensus protocols with minimal communication links based on directedspanning tree.CCDC 2023.
+[1]Zhao lanhao，Chen Yangzhou. Partial state consensus and output consensus in heterogeneous multi-agent systems. UR
 
-[2]Zhao lanhao. Estimation of Strong Structural Controllable Subspace of Network: Equitable Partition Method.
+[2]Zhao lanhao，Chen Yangzhou. Decentralized design of leader-following consensus protocols for heterogeneous multiagent systems with asymmetric weight matrix. UR
+
+[3]Chen Yangzhou, Zhao lanhao. Decentralized design of consensus protocols with minimal communication links based on directedspanning tree.CCDC 2023.
+
+[4]Zhao lanhao. Estimation of Strong Structural Controllable Subspace of Network: Equitable Partition Method.
 https://doi.org/10.48550/arXiv.2204.11483
 
-[3]Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability and observability of linear multi-agent systems over matrix-weighted signed networks.
+[5]Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability and observability of linear multi-agent systems over matrix-weighted signed networks.
 https://doi.org/10.48550/arXiv.2204.00995
 
-[4]Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability of General Linear Discrete Multiagent Systems with Directed and Weighted Signed Network. J Syst Sci Complex (2022). https://doi.org/10.1007/s11424-022-1036-5
+[6]Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability of General Linear Discrete Multiagent Systems with Directed and Weighted Signed Network. J Syst Sci Complex (2022). https://doi.org/10.1007/s11424-022-1036-5
 
-[5]赵兰浩,纪志坚.符号网络条件下扩散耦合多智能体系统的可控性分析[J].系统科学与数学,2021,41(06):1455-1466.
+[7]赵兰浩,纪志坚.符号网络条件下扩散耦合多智能体系统的可控性分析[J].系统科学与数学,2021,41(06):1455-1466.
 
-[6]赵兰浩.具有视力保护功能的智能台灯设计[J].山东工业技术,2018(21):125.
+[8]赵兰浩.具有视力保护功能的智能台灯设计[J].山东工业技术,2018(21):125.
 
-[7]赵兰浩.短波通信技术发展综述[J].信息通信,2017(11):257-258.
+[9]赵兰浩.短波通信技术发展综述[J].信息通信,2017(11):257-258.
 
-[8]赵兰浩,董鑫,孙晔.基于串级控制的密码锁安全性优化[J].电子世界,2017(05):94+96.
+[10]赵兰浩,董鑫,孙晔.基于串级控制的密码锁安全性优化[J].电子世界,2017(05):94+96.
 
 ### PUBLICATION OF SCIENCE COMMUNICATION
-[1]赵兰浩.社会尺度挑战下的控制：2030路线图（一）（翻译作品）.中国自动化学会通讯，2023(6):60-63
+[1]赵兰浩.社会尺度挑战下的控制：2030路线图（十一）（翻译作品）.中国自动化学会通讯，2023(12):41-45
 
-[2]赵兰浩.控制理论:一段故事(2)线性与非线性[J].中国自动化学会通讯，2023(5):49-53
+[2]赵兰浩.社会尺度挑战下的控制：2030路线图（一）（翻译作品）.中国自动化学会通讯，2023(6):60-63
 
-[3]赵兰浩.控制理论的一段故事[J].中国自动化学会通讯，2023(4):48-55
+[3]赵兰浩.控制理论:一段故事(2)线性与非线性[J].中国自动化学会通讯，2023(5):49-53
 
-[4]赵兰浩.控制理论几个基本问题的初步讨论[J].中国自动化学会通讯，2023(4):56-
+[4]赵兰浩.控制理论的一段故事[J].中国自动化学会通讯，2023(4):48-55
+
+[5]赵兰浩.控制理论几个基本问题的初步讨论[J].中国自动化学会通讯，2023(4):56-
 61
 
-[5]赵兰浩.详解自动化专业的就业方向与前景[J].中国自动化学会通讯,2022(06):76-80
+[6]赵兰浩.详解自动化专业的就业方向与前景[J].中国自动化学会通讯,2022(06):76-80
 
-[6]赵兰浩.选择自动化专业应该知道的事情[J].中国自动化学会通讯,2022(06):81-83
+[7]赵兰浩.选择自动化专业应该知道的事情[J].中国自动化学会通讯,2022(06):81-83
 
-[7]赵兰浩.写给选择自动化专业的新人[J].中国自动化学会通讯,2022(06):84-87
+[8]赵兰浩.写给选择自动化专业的新人[J].中国自动化学会通讯,2022(06):84-87
 
 ### Research interests
 Multi agent and Complex network control
