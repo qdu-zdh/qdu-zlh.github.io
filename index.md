@@ -24,7 +24,7 @@ Email： lugh56.2007@163.com
 
 
 ### PUBLICATION OF RESEARCH
-[1]Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability of General Linear Discrete Multiagent Systems with Directed and Weighted Signed Network. J Syst Sci Complex (2022). （JCR Q1）:本文首次给出了时滞系统下等价划分的定义，并将描述多智能体系统能控性的等价划分方法首次推广到了复杂场景，为将多智能体目前得到的给予一阶积分器的能控性判据应用到更复杂的场景提供了借鉴和启发。
+[1]Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability of General Linear Discrete Multiagent Systems with Directed and Weighted Signed Network. J Syst Sci Complex (2022). （JCR Q1）:本文首次给出了时滞系统下等价划分的定义，并将描述多智能体系统能控性的等价划分方法首次推广到了复杂场景，为将多智能体目前得到的基于一阶积分器的能控性判据应用到更复杂的场景提供了借鉴和启发。
 
 [2]赵兰浩,纪志坚.符号网络条件下扩散耦合多智能体系统的可控性分析[J].系统科学与数学,2021,41(06):1455-1466. （中文核心）：本文将基于一阶积分器的基于等价划分的能控性判断方法推广到了一般线性系统，并指出了原有证明方法在处理一般线性系统场景下的局限性。
 
