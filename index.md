@@ -28,7 +28,7 @@ Email： lugh56.2007@163.com
 
 [2]赵兰浩,纪志坚.符号网络条件下扩散耦合多智能体系统的可控性分析[J].系统科学与数学,2021,41(06):1455-1466. （中文核心）：本文将基于一阶积分器的基于等价划分的能控性判断方法推广到了一般线性系统，并指出了原有证明方法在处理一般线性系统场景下的局限性。
 
-[3]Zhao lanhao，Chen Yangzhou. Decentralized design of leader-following consensus protocols for heterogeneous multiagent systems with asymmetric weight matrix. CISC.2024 （EI会议）：本文和[4]从“仅使用生成树上的邻居作为通信邻居”出发，针对同构系统和参数异构系统，对于“仅使用生成树作为通信”和“使用全部邻居”两种场景，利用圆盘定理和部分变元稳定性理论，分别给出了一种新的不需要使用全局信息的一致性判据。
+[3]Zhao lanhao，Chen Yangzhou. Decentralized design of leader-following consensus protocols for heterogeneous multiagent systems with asymmetric weight matrix. CISC.2024 （EI会议）：本文和[4]从“仅使用生成树上的邻居作为通信邻居”出发，针对同构系统和参数异构系统，对于“仅使用生成树作为通信”和“使用全部邻居”两种场景，利用圆盘定理和部分变元稳定性理论，分别给出了一种新的不需要使用全局信息的一致性判据。此外，本文也首次解决了矩阵权重为非对称情况下的多智能体系统一致性问题，为矩阵权重网络的进一步研究提供了参考。
 
 [4]Chen Yangzhou, Zhao lanhao. Decentralized design of consensus protocols with minimal communication links based on directedspanning tree.CCDC 2023. （EI会议）
 
