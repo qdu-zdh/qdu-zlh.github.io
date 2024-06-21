@@ -1,5 +1,7 @@
 ## LANHAO ZHAO
 ### PERSONAL PROFILE
+![Image](https://github.com/qdu-zdh/qdu-zlh/blob/2a6b187ae31726fdc190a5abb45f7db0d51a62bb/1.jpg)
+
 Name:Lanhao Zhao （赵兰浩）
 
 Email： lugh56.2007@163.com
