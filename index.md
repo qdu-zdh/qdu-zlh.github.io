@@ -19,10 +19,10 @@ Email： lugh56.2007@163.com
 [5]Chen Yangzhou，Zhao lanhao. Partial state consensus and output consensus in heterogeneous multi-agent systems. UR：本文针对结构异构的线性和非线性多智能体系统，利用部分变元稳定性理论，给出了其部分状态一致的新判据，同时通过构造合适的变换，从新的角度讨论了输出一致性，并给出了在常规协议下的输出一致性相关结果。
 
 [6]Zhao lanhao. Estimation of Strong Structural Controllable Subspace of Network: Equitable Partition Method.
-https://doi.org/10.48550/arXiv.2204.11483 （预印本）：本文利用等价划分方法对网络的强结构能控子空间进行了估计，并给出了证明过程，并基于工作[1],[2],[7]指出了该结论的广泛适用性。本文所得到的结论在同时期文献中也有类似提法，本文实质上是对同时期文献的补充证明，仅传至预印本网站。
+https://doi.org/10.48550/arXiv.2204.11483 （预印本）：本文利用等价划分方法对网络的强结构能控子空间进行了估计，并给出了证明过程，并基于工作[1],[2],[7]指出了该结论的广泛适用性。本文所得到的结论在同时期文献中也有类似提法，本文实质上是对同时期文献的补充证明。
 
 [7]Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability and observability of linear multi-agent systems over matrix-weighted signed networks.
-https://doi.org/10.48550/arXiv.2204.00995 （预印本）：本文给出了异构系统条件的等价划分定义，该定义与同行工作属于同时独立提出，但由于失去核心的首发性，加上此时临近毕业，所以并未继续投稿，仅上传至预印本网站。
+https://doi.org/10.48550/arXiv.2204.00995 （预印本）：本文给出了异构系统条件的等价划分定义，该定义与同行工作属于同时独立提出，由于失去核心的首发性，加上此时临近毕业，所以并未继续投稿。
 
 以下是本科期间所完成的课程论文，属于熟悉撰写标准和投稿流程的习作。
 
@@ -56,7 +56,7 @@ https://doi.org/10.48550/arXiv.2204.00995 （预印本）：本文给出了异�
 
 2015年获 山东科技大学 大学英语四级统考优秀学生标兵
 
-2016年获批泰安市大学生科技创新行动计划B类项目一项，并经泰安市科技局验收”
+2016年获批泰安市大学生科技创新行动计划B类项目一项（B类：具有一定的创新性和较好的应用前景，资金支持额度5000元），并经泰安市科技局验收结题
 
 2017年获 山东科技大学 科技创新二等奖
 
