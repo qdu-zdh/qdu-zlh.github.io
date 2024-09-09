@@ -1,4 +1,4 @@
-### 基本情况
+## 基本情况
 
 赵兰浩
 
@@ -6,7 +6,7 @@ Email： lugh56.2007@163.com
 
 2018年获山东科技大学（泰安校区）自动化专业工学学士学位，2022年获青岛大学系统科学理学硕士学位。2022年起在北京工业大学信息科学技术学院攻读控制科学与工程工学博士学位。研究方向为多智能体系统分析与控制。
 
-### 期刊
+## 期刊
 
 [1]Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability of General Linear Discrete Multiagent Systems with Directed and Weighted Signed Network. J Syst Sci Complex (2022). （JCR Q1）
 
@@ -14,7 +14,7 @@ Email： lugh56.2007@163.com
 
 [3]Chen Yangzhou，Zhao lanhao. Partial state consensus and output consensus in heterogeneous multi-agent systems. UR
 
-### 会议
+## 会议
 
 [1]Zhao lanhao，Chen Yangzhou. Decentralized design of leader-following consensus protocols for heterogeneous multiagent systems with asymmetric weight matrix. CISC.2024 
 
@@ -22,7 +22,7 @@ Email： lugh56.2007@163.com
 
 [3]IEEE 第十届数据驱动与学习系统会议 张贴海报 
 
-### 预印本
+## 预印本
 
 [1]Zhao lanhao. Estimation of Strong Structural Controllable Subspace of Network: Equitable Partition Method.
 https://doi.org/10.48550/arXiv.2204.11483 
@@ -30,7 +30,7 @@ https://doi.org/10.48550/arXiv.2204.11483
 [2]Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability and observability of linear multi-agent systems over matrix-weighted signed networks.
 https://doi.org/10.48550/arXiv.2204.00995 
 
-### 普刊
+## 普刊
 
 []赵兰浩.具有视力保护功能的智能台灯设计[J].山东工业技术,2018(21):125.
 
@@ -38,7 +38,7 @@ https://doi.org/10.48550/arXiv.2204.00995
 
 [3]赵兰浩,董鑫,孙晔.基于串级控制的密码锁安全性优化[J].电子世界,2017(05):94+96./感谢泰安市政府大学生科技创新行动计划对本论文的资助
 
-### 科普
+## 科普
 
 [1]赵兰浩.控制理论:一段故事(2)线性与非线性[J].中国自动化学会通讯，2023(5):49-53
 
@@ -55,13 +55,13 @@ https://doi.org/10.48550/arXiv.2204.00995
 
 另外在知乎、微信公众号等国内外平台发布内容推送2000多条，阅读\播放量一千余万次，各平台关注者累计达到近七万人，来自全球七十余个国家和地区，综合数据在自动控制类中文和外文新媒体平台领域都位居前列。
 
-### 翻译
+## 翻译
 
 [1]赵兰浩.社会尺度挑战下的控制：2030路线图（十一）（翻译作品）.中国自动化学会通讯，2023(12):41-45
 
 [2]赵兰浩.社会尺度挑战下的控制：2030路线图（一）（翻译作品）.中国自动化学会通讯，2023(6):60-63
 
-### 获奖情况
+## 获奖情况
 
 2014年-2018年多次获 山东科技大学 学业奖学金、众诚企业奖学金
 
@@ -105,7 +105,7 @@ https://doi.org/10.48550/arXiv.2204.00995
 
 2024年获 科普中国 科普新锐
 
-### 兼职情况
+## 兼职情况
 
 中国自动化学会第十届普及工作委员会委员
 
