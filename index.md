@@ -1,38 +1,45 @@
-## LANHAO ZHAO
-### PERSONAL PROFILE
+### 基本情况
 
-Name:Lanhao Zhao （赵兰浩）
+赵兰浩
 
 Email： lugh56.2007@163.com
 
 2018年获山东科技大学（泰安校区）自动化专业工学学士学位，2022年获青岛大学系统科学理学硕士学位。2022年起在北京工业大学信息科学技术学院攻读控制科学与工程工学博士学位。研究方向为多智能体系统分析与控制。
 
-### PUBLICATION OF RESEARCH
-[1]Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability of General Linear Discrete Multiagent Systems with Directed and Weighted Signed Network. J Syst Sci Complex (2022). （JCR Q1）:本文首次给出了时滞系统下等价划分的定义，并将描述多智能体系统能控性的等价划分方法首次推广到了复杂场景，为将多智能体目前得到的基于一阶积分器的能控性判据应用到更复杂的场景提供了借鉴和启发。
+### 期刊
 
-[2]赵兰浩,纪志坚.符号网络条件下扩散耦合多智能体系统的可控性分析[J].系统科学与数学,2021,41(06):1455-1466. （中文核心）：本文将基于一阶积分器的利用等价划分能控性判断方法推广到了一般线性系统，并指出了原有证明方法在处理一般线性系统场景下的局限性。
+[1]Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability of General Linear Discrete Multiagent Systems with Directed and Weighted Signed Network. J Syst Sci Complex (2022). （JCR Q1）
 
-[3]Zhao lanhao，Chen Yangzhou. Decentralized design of leader-following consensus protocols for heterogeneous multiagent systems with asymmetric weight matrix. CISC.2024 （EI会议）：本文和[4]从“仅使用生成树上的邻居作为通信邻居”出发，针对同构系统和参数异构系统，对于“仅使用生成树作为通信”和“使用全部邻居”两种场景，利用圆盘定理和部分变元稳定性理论，分别给出了一种新的不需要使用全局信息的一致性判据。此外，本文也首次解决了矩阵权重为非对称情况下的多智能体系统一致性问题，为矩阵权重网络的进一步研究提供了参考。
+[2]赵兰浩,纪志坚.符号网络条件下扩散耦合多智能体系统的可控性分析[J].系统科学与数学,2021,41(06):1455-1466. （中文核心）
 
-[4]Chen Yangzhou, Zhao lanhao. Decentralized design of consensus protocols with minimal communication links based on directedspanning tree.CCDC 2023. （EI会议）
+[3]Chen Yangzhou，Zhao lanhao. Partial state consensus and output consensus in heterogeneous multi-agent systems. UR
 
-[5]Chen Yangzhou，Zhao lanhao. Partial state consensus and output consensus in heterogeneous multi-agent systems. UR：本文针对结构异构的线性和非线性多智能体系统，利用部分变元稳定性理论，给出了其部分状态一致的新判据，同时通过构造合适的变换，从新的角度讨论了输出一致性，并给出了在常规协议下的输出一致性相关结果。
+### 会议
 
-[6]Zhao lanhao. Estimation of Strong Structural Controllable Subspace of Network: Equitable Partition Method.
-https://doi.org/10.48550/arXiv.2204.11483 （预印本）：本文利用等价划分方法对网络的强结构能控子空间进行了估计，并给出了证明过程，并基于工作[1],[2],[7]指出了该结论的广泛适用性。本文所得到的结论在同时期文献中也有类似提法，本文实质上是对同时期文献的补充证明。
+[1]Zhao lanhao，Chen Yangzhou. Decentralized design of leader-following consensus protocols for heterogeneous multiagent systems with asymmetric weight matrix. CISC.2024 
 
-[7]Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability and observability of linear multi-agent systems over matrix-weighted signed networks.
-https://doi.org/10.48550/arXiv.2204.00995 （预印本）：本文给出了异构系统条件的等价划分定义，该定义与同行工作属于同时独立提出，由于失去核心的首发性，加上此时临近毕业，所以并未继续投稿。
+[2]Chen Yangzhou, Zhao lanhao. Decentralized design of consensus protocols with minimal communication links based on directedspanning tree.CCDC 2023. 
 
-以下是本科习作
+[3]IEEE 第十届数据驱动与学习系统会议 张贴海报 
 
-[8]赵兰浩.具有视力保护功能的智能台灯设计[J].山东工业技术,2018(21):125.
+### 预印本
 
-[9]赵兰浩.短波通信技术发展综述[J].信息通信,2017(11):257-258.
+[1]Zhao lanhao. Estimation of Strong Structural Controllable Subspace of Network: Equitable Partition Method.
+https://doi.org/10.48550/arXiv.2204.11483 
 
-[10]赵兰浩,董鑫,孙晔.基于串级控制的密码锁安全性优化[J].电子世界,2017(05):94+96./感谢泰安市政府大学生科技创新行动计划对本论文的资助
+[2]Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability and observability of linear multi-agent systems over matrix-weighted signed networks.
+https://doi.org/10.48550/arXiv.2204.00995 
 
-### PUBLICATION OF SCIENCE COMMUNICATION
+### 普刊
+
+[]赵兰浩.具有视力保护功能的智能台灯设计[J].山东工业技术,2018(21):125.
+
+[2]赵兰浩.短波通信技术发展综述[J].信息通信,2017(11):257-258.
+
+[3]赵兰浩,董鑫,孙晔.基于串级控制的密码锁安全性优化[J].电子世界,2017(05):94+96./感谢泰安市政府大学生科技创新行动计划对本论文的资助
+
+### 科普
+
 [1]赵兰浩.控制理论:一段故事(2)线性与非线性[J].中国自动化学会通讯，2023(5):49-53
 
 [2]赵兰浩.控制理论的一段故事[J].中国自动化学会通讯，2023(4):48-55
@@ -46,40 +53,81 @@ https://doi.org/10.48550/arXiv.2204.00995 （预印本）：本文给出了异�
 
 [6]赵兰浩.写给选择自动化专业的新人[J].中国自动化学会通讯,2022(06):84-87
 
-### TRANSLATION OF ENGLISH SCIENCE COMMUNICATION
+另外在知乎、微信公众号等国内外平台发布内容推送2000多条，阅读\播放量一千余万次，各平台关注者累计达到近七万人，来自全球七十余个国家和地区，综合数据在自动控制类中文和外文新媒体平台领域都位居前列。
+
+### 翻译
 
 [1]赵兰浩.社会尺度挑战下的控制：2030路线图（十一）（翻译作品）.中国自动化学会通讯，2023(12):41-45
 
 [2]赵兰浩.社会尺度挑战下的控制：2030路线图（一）（翻译作品）.中国自动化学会通讯，2023(6):60-63
 
-### PROJECTS AND AWARDS
+### 获奖情况
+
+2014年-2018年多次获 山东科技大学 学业奖学金、众诚企业奖学金
 
 2015年获 山东科技大学 大学英语四级统考优秀学生标兵
 
-2016年获批泰安市大学生科技创新行动计划B类项目一项（B类：具有一定的创新性和较好的应用前景，资金支持额度5000元），并经泰安市科技局验收结题
+2016年获批 泰安市大学生科技创新行动计划B类项目一项（B类：具有一定的创新性和较好的应用前景，资金支持额度5000元），并经泰安市科技局2018年2月验收结题
+
+2016年获 第十三届五一数学建模联赛三等奖
+
+2016年获 第九届“认证杯”数学中国数学建模网络挑战赛第一阶段三等奖
+
+2016年获 第九届“认证杯”数学中国数学建模网络挑战赛第二阶段三等奖
+
+2016年获 高教社杯全国大学生数学建模竞赛省级三等奖
+
+2016年获 美国大学生数学建模比赛三等奖
 
 2017年获 山东科技大学 科技创新二等奖
 
+2017年获 大学生环保知识竞赛 优秀奖
+
 2018年获 山东科技大学 科技创新一等奖
 
-同时，本科期间作为负责模型求解和论文写作的成员，参加多次各类数学建模比赛并获得奖项，包括“认证杯”数学中国数学建模网络挑战赛三等奖两次、高教社杯全国大学生数学建模竞赛省级三等奖一次、美国大学生数学建模比赛三等奖一次等
+2019年-2022年 多次获 青岛大学新生奖学金、学业奖学金
 
-硕士期间获得多次学业奖学金，参与多项基金项目申报和系统科学学科相关材料撰写。
+2019年获 第四届中国系统科学大会 优秀志愿者
 
+2020年 控制理论结构图系列工作 获 Reddit 控制理论论坛 历史TOP3 
 
-### PROFESSIONAL AFFILIATIONS
+2020年 控制理论结构图系列工作 被IEEE控制系统学会、国际自动控制联合会 等权威门户网站 转载
 
-中国自动化学会第十届普及工作委员会委员 
+2021年 经专家评审 获 中国自动化学会“智向未来”人工智能与自动化科普专家称号
+
+2022年获 知乎自动控制话题 优秀答主
+
+2022年-至今 多次获得 北京工业大学 学业奖学金
+
+2023年 受邀参加知乎/中国科学报 首届“知乎科技榜” 评审工作，并为“中国天眼FAST取得系列重要进展”撰写推荐语
+
+2024年获 清华大学出版社2023年度 至臻伙伴
+
+2024年获 科普中国 科普新锐
+
+### 兼职情况
+
+中国自动化学会第十届普及工作委员会委员
 
 中国自动化大会审稿人
 
-中国自动化学会重要学术会议目录评审专家
+中国自动化学会重要学术会议目录评审委员
 
-中国自动化学会“智向未来”人工智能与自动化科普专家团成员等。
+中国自动化学会“智向未来”人工智能与自动化科普专家
 
-知乎 自动控制 话题 优秀答主 
+中国自动化学会、中国人工智能学会、中国指挥与控制学会、IEEE会员
 
-知乎/中国科学报 首届“知乎科技榜” 评委。
+科普中国-中国自动化学会所属科普信息员
+
+知乎/中国科学报 首届“知乎科技榜” 评审委员
+
+第一届、第二届自动化领域青年学生交流会 组织工作人员
+
+
+
+
+
+
 
 
 
