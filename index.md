@@ -10,45 +10,50 @@
 
 2022年起 北京工业大学信息科学技术学院攻读控制科学与工程工学博士学位。导师 陈阳舟 教授，研究方向为多智能体系统分析与控制。
 
-## 期刊
+## 英文期刊
+Zhao lanhao，Chen Yangzhou. Consensus of Heterogeneous Multi Agent Systems: Partial Variable Stability Method Based on Large System Decomposition. R
 
-目前在国内外刊物上累计发表学术论文和科普论文、翻译作品14篇
+Zhao lanhao，Chen Yangzhou. Partial state consensus and output consensus in time delay heterogeneous linear multi-agent systems. R
 
-[1]Chen Yangzhou，Zhao lanhao. Partial state consensus and output consensus in heterogeneous multi-agent systems. UR
+Chen Yangzhou，Zhao lanhao. Partial state consensus and output consensus in heterogeneous multi-agent systems. UR
 
-[2]赵兰浩.社会尺度挑战下的控制：2030路线图（十一）（翻译作品）.中国自动化学会通讯，2023(12):41-45
+Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability of General Linear Discrete Multiagent Systems with Directed and Weighted Signed Network. J Syst Sci Complex (2022). （JCR Q1）
 
-[3]赵兰浩.社会尺度挑战下的控制：2030路线图（一）（翻译作品）.中国自动化学会通讯，2023(6):60-63
-
-[4]赵兰浩.控制理论:一段故事(2)线性与非线性[J].中国自动化学会通讯，2023(5):49-53
-
-[5]赵兰浩.控制理论的一段故事[J].中国自动化学会通讯，2023(4):48-55
-
-[6]赵兰浩.控制理论几个基本问题的初步讨论[J].中国自动化学会通讯，2023(4):56-61
-
-[7]赵兰浩.详解自动化专业的就业方向与前景[J].中国自动化学会通讯,2022(06):76-80
-
-[8]赵兰浩.选择自动化专业应该知道的事情[J].中国自动化学会通讯,2022(06):81-83
-
-[9]赵兰浩.写给选择自动化专业的新人[J].中国自动化学会通讯,2022(06):84-87
-
-[10]Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability of General Linear Discrete Multiagent Systems with Directed and Weighted Signed Network. J Syst Sci Complex (2022). （JCR Q1）
-
-[11]赵兰浩,纪志坚.符号网络条件下扩散耦合多智能体系统的可控性分析[J].系统科学与数学,2021,41(06):1455-1466. （中文核心）
-
-[12]赵兰浩.具有视力保护功能的智能台灯设计[J].山东工业技术,2018(21):125.
-
-[13]赵兰浩.短波通信技术发展综述[J].信息通信,2017(11):257-258.（文献他引频次在中国知网“电信技术”领域排名前10%）
-
-[14]赵兰浩,董鑫,孙晔.基于串级控制的密码锁安全性优化[J].电子世界,2017(05):94+96./感谢泰安市政府大学生科技创新行动计划对本论文的资助
-
-## 会议
+## EI 会议
 
 [1]Zhao lanhao，Chen Yangzhou. Decentralized design of leader-following consensus protocols for heterogeneous multiagent systems with asymmetric weight matrix. CISC.2024 
 
 [2]Chen Yangzhou, Zhao lanhao. Decentralized design of consensus protocols with minimal communication links based on directed spanning tree.CCDC 2023. 
 
-[3]IEEE 第十届数据驱动与学习系统会议 张贴海报 “扩散耦合多智能体系统的可控性分析”
+## 中文核心期刊
+
+[1]赵兰浩,纪志坚.符号网络条件下扩散耦合多智能体系统的可控性分析[J].系统科学与数学,2021,41(06):1455-1466. （中文核心）
+
+## 中文其他刊物
+
+[1]赵兰浩.社会尺度挑战下的控制：2030路线图（十一）（翻译作品）.中国自动化学会通讯，2023(12):41-45
+
+[2]赵兰浩.社会尺度挑战下的控制：2030路线图（一）（翻译作品）.中国自动化学会通讯，2023(6):60-63
+
+[3]赵兰浩.控制理论:一段故事(2)线性与非线性[J].中国自动化学会通讯，2023(5):49-53
+
+[4]赵兰浩.控制理论的一段故事[J].中国自动化学会通讯，2023(4):48-55
+
+[5]赵兰浩.控制理论几个基本问题的初步讨论[J].中国自动化学会通讯，2023(4):56-61
+
+[6]赵兰浩.详解自动化专业的就业方向与前景[J].中国自动化学会通讯,2022(06):76-80
+
+[7]赵兰浩.选择自动化专业应该知道的事情[J].中国自动化学会通讯,2022(06):81-83
+
+[8]赵兰浩.写给选择自动化专业的新人[J].中国自动化学会通讯,2022(06):84-87
+
+[9]赵兰浩.具有视力保护功能的智能台灯设计[J].山东工业技术,2018(21):125.
+
+[10]赵兰浩.短波通信技术发展综述[J].信息通信,2017(11):257-258.（文献他引频次在中国知网“电信技术”领域排名前10%）
+
+[11]赵兰浩,董鑫,孙晔.基于串级控制的密码锁安全性优化[J].电子世界,2017(05):94+96./感谢泰安市政府大学生科技创新行动计划对本论文的资助
+
+
 
 ## 预印本
 
