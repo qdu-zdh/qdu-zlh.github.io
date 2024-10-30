@@ -1,20 +1,26 @@
 ## 自述
 
-九六年鲁南土著，在理学、工学、文学、历史学、社会学、哲学、考古学等领域长期游荡至今。
+九六年鲁南土著，在理学、工学、文学、历史学、社会学、哲学、考古学等领域长期游荡至今。一个简单又复杂的生物。
 
 ## 求学经历
 
 2014年-2018年 山东科技大学（泰安校区）：自动化专业工学学士学位
 
-2019年-2022年 青岛大学：系统科学理学硕士学位，导师 纪志坚 教授，研究方向为网络能控性分析。
+2019年-2022年 青岛大学：系统科学理学硕士学位，导师 纪志坚 教授。
 
-2022年起 北京工业大学信息科学技术学院攻读控制科学与工程工学博士学位。导师 陈阳舟 教授，研究方向为多智能体系统分析与控制。
+2022年起 北京工业大学信息科学技术学院攻读控制科学与工程工学博士学位。导师 陈阳舟 教授。
+
+## 研究兴趣
+
+多智能体系统分析与控制
+
+复杂网络性能分析与复杂大系统调控
+
+群体智能行为研究
+
+智能网联编队与交通系统
 
 ## 英文期刊
-Zhao lanhao，Chen Yangzhou. Consensus of Heterogeneous Multi Agent Systems: Partial Variable Stability Method Based on Large System Decomposition. R
-
-Zhao lanhao，Chen Yangzhou. Partial state consensus and output consensus in time delay heterogeneous linear multi-agent systems. R
-
 Chen Yangzhou，Zhao lanhao. Partial state consensus and output consensus in heterogeneous multi-agent systems. UR
 
 Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability of General Linear Discrete Multiagent Systems with Directed and Weighted Signed Network. J Syst Sci Complex (2022). （JCR Q1）
@@ -99,6 +105,9 @@ https://doi.org/10.48550/arXiv.2204.00995
 
 2021年获 中国自动化学会“百年荣光 薪火相传”线上答题活动 二等奖
 
+2024年获 强军杯-全国大学生国防知识竞赛 全国一等奖
+
+
 四、校级荣誉
 
 2015年获 山东科技大学 大学英语四级统考优秀学生标兵
@@ -113,9 +122,12 @@ https://doi.org/10.48550/arXiv.2204.00995
 
 智能密码锁的安全性优化 泰安市大学生科技创新行动计划B类项目，主持
 
-多智能体系统基于结构分解的分析与控制 国家自然科学基金资助项目， 项目编号：61873136，参与
+多智能体系统基于结构分解的分析与控制 国家自然科学基金面上资助项目， 项目编号：61873136，参与
 
-高性能协同控制核心理论与关键技术 国家自然科学基金资助项目，项目编号：62033007，参与
+高性能协同控制核心理论与关键技术 国家自然科学基金重点资助项目，项目编号：62033007，参与
+
+异构多智能体系统的分散化设计 北京市自然科学基金面上项目 项目编号：4232041，参与
+
 
 ## 科普
 
@@ -143,7 +155,7 @@ https://doi.org/10.48550/arXiv.2204.00995
 
 中国自动化学会第十届普及工作委员会委员
 
-Transactions of the Institute of Measurement and Control，中国自动化大会等国内外学术期刊和学术会议审稿人
+Transactions of the Institute of Measurement and Control，中国自动化大会等国内外重要学术期刊和学术会议审稿人
 
 中国自动化学会重要学术会议目录评审专家
 
@@ -161,6 +173,25 @@ Transactions of the Institute of Measurement and Control，中国自动化大会
 
 “纯真而不欠闻达，善良而不失坚强，把生命高举在尘俗之上，又融化于社会之中，这应当是我们这一代人的共同追求。”
 
+## 一些好玩的
+
+阿比德大学 地球科学 荣誉博士
+
+普林斯顿教会大学 人类学 荣誉博士
+
+欧洲开放大学 工商管理硕士
+
+欧洲开放大学 控制工程、NASA系统工程 培训证书
+
+中国旅游专家（中国文化中心颁发）
+
+秘鲁旅游专家（秘鲁旅游局颁发）
+
+波兰旅游专家（波兰旅游局北京办事处颁发）
+
+泰国旅游大师（泰国国家旅游局成都办事处颁发）
+
+玩美专家（美国国家旅游局颁发）
 
 ## 联系
 
