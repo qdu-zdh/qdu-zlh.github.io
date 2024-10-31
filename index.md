@@ -246,7 +246,7 @@ Transactions of the Institute of Measurement and Control，中国自动化大会
 
 登岳
 
-昔闻神仙居云雷，今借冬风登玉皇。乾坤一色自小我，神人殊异又何妨？
+昔闻神仙居云霄，今借冬风登玉皇。乾坤一色自小我，神人殊异又何妨？
 
 江城子:醉问
 
@@ -260,7 +260,7 @@ Transactions of the Institute of Measurement and Control，中国自动化大会
 
 天净沙·山亭春
 
-暖亭春水新权，爆竹熙攘人家。叫卖声声嘶哑，翼云山下，瞧得人世繁华。
+暖亭春水新杈，爆竹熙攘人家。叫卖声声嘶哑，翼云山下，瞧得人世繁华。
 
 ### 娱乐
 
