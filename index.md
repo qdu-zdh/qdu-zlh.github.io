@@ -4,6 +4,8 @@ Hello friends from all over the world
 
 Bonjour Amis du monde entier.
 
+Hola, amigos de todo el mundo.
+
 أصدقاء من جميع أنحاء العالم ، مرحبا
 
 Друзья со всего мира, здравствуйте!
