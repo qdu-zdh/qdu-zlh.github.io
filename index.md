@@ -22,23 +22,24 @@
 
 智能网联编队与交通系统
 
+## 出版物
 
-## 英文期刊
+### 英文期刊
 Chen Yangzhou，Zhao lanhao. Partial state consensus and output consensus in heterogeneous multi-agent systems. UR
 
 Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability of General Linear Discrete Multiagent Systems with Directed and Weighted Signed Network. J Syst Sci Complex (2022). （JCR Q1）
 
-## EI 会议
+### EI 会议
 
 [1]Zhao lanhao，Chen Yangzhou. Decentralized design of leader-following consensus protocols for heterogeneous multiagent systems with asymmetric weight matrix. CISC.2024 
 
 [2]Chen Yangzhou, Zhao lanhao. Decentralized design of consensus protocols with minimal communication links based on directed spanning tree.CCDC 2023. 
 
-## 中文核心期刊
+### 中文核心期刊
 
 [1]赵兰浩,纪志坚.符号网络条件下扩散耦合多智能体系统的可控性分析[J].系统科学与数学,2021,41(06):1455-1466. （中文核心）
 
-## 中文其他刊物
+### 中文其他刊物
 
 [1]赵兰浩.社会尺度挑战下的控制：2030路线图（十一）（翻译作品）.中国自动化学会通讯，2023(12):41-45
 
@@ -63,7 +64,7 @@ Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability of General Line
 [11]赵兰浩,董鑫,孙晔.基于串级控制的密码锁安全性优化[J].电子世界,2017(05):94+96./感谢泰安市政府大学生科技创新行动计划对本论文的资助
 
 
-## 预印本
+### 预印本
 
 [1]Zhao lanhao. Estimation of Strong Structural Controllable Subspace of Network: Equitable Partition Method.
 https://doi.org/10.48550/arXiv.2204.11483 
