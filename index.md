@@ -1,3 +1,16 @@
+世界各地的朋友们，你们好呀～
+
+Hello friends from all over the world
+
+Bonjour Amis du monde entier.
+
+أصدقاء من جميع أنحاء العالم ، مرحبا
+
+Друзья со всего мира, здравствуйте!
+
+世界中の皆さん、こんにちは
+
+![联系](/Screenshot_20241102_004204_com_android_chrome_ChromeTabbedActivity.jpg)
 
 
 
@@ -140,12 +153,6 @@ https://doi.org/10.48550/arXiv.2204.00995
 ## 科普
 
 在知乎、微信公众号等国内外平台发布内容推送2000多条，阅读\播放量一千余万次，各平台关注者累计达到近七万人，来自全球七十余个国家和地区，综合数据在自动控制类中文和外文新媒体平台领域都位居前列，与国际自动控制联合会（IFAC-CONTROL）等学术组织达成长期合作关系。
-
-
-世界各地的朋友们：
-
-![联系](/Screenshot_20241102_004204_com_android_chrome_ChromeTabbedActivity.jpg)
-
 
 
 
