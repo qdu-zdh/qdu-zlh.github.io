@@ -176,7 +176,36 @@ Transactions of the Institute of Measurement and Control，Journal of Control an
 
 ## 一些好玩的
 
+### 搞几个证书玩玩
+
 阿比德大学 地球科学 荣誉博士、普林斯顿教会大学 人类学 荣誉博士、欧洲开放大学 工商管理硕士、欧洲开放大学 控制工程、NASA系统工程 证书、中国旅游专家（中国文化中心颁发）、秘鲁旅游专家（秘鲁旅游局颁发）、波兰旅游专家（波兰旅游局北京办事处颁发）、泰国旅游大师（泰国国家旅游局成都办事处颁发）、玩美专家（美国国家旅游局颁发）
+
+### 学术师承谱系
+
+Leonhard Euler（欧拉）
+
+Joseph Louis Lagrange（拉格朗日）
+
+Siméon Denis Poisson（泊松）
+
+Mikhail Vasilyevich Ostrogradsky
+
+Nikolai Dmitrievich Brashman
+
+Pafnuty Lvovich Chebyshev（切比雪夫）
+
+Aleksandr Mikhailovich Lyapunov（李雅普诺夫）
+
+Vladimir Andreevich Steklov
+
+Vladimir Ivanovich Smirnov
+
+Vladimir Andreevich Yakubovich
+
+Yangzhou chen
+
+Lanhao zhao
+
 
 ## 业余爱好
 
