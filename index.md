@@ -204,29 +204,9 @@ Transactions of the Institute of Measurement and Control，Journal of Control an
 
 ### 学术师承谱系 （神奇的复杂网络）
 
-Leonhard Euler（欧拉）
+梦幻联动
 
-Joseph Louis Lagrange（拉格朗日）
-
-Siméon Denis Poisson（泊松）
-
-Mikhail Vasilyevich Ostrogradsky
-
-Nikolai Dmitrievich Brashman
-
-Pafnuty Lvovich Chebyshev（切比雪夫）
-
-Aleksandr Mikhailovich Lyapunov（李雅普诺夫）
-
-Vladimir Andreevich Steklov
-
-Vladimir Ivanovich Smirnov
-
-Vladimir Andreevich Yakubovich
-
-Yangzhou Chen
-
-Lanhao Zhao
+![谱系](/mmexport1730533678632.jpg)
 
 
 ## 业余爱好
