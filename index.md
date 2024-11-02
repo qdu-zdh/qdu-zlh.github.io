@@ -206,7 +206,7 @@ Transactions of the Institute of Measurement and Control，Journal of Control an
 
 梦幻联动
 
-![谱系](/mmexport1730533678632.jpg)
+![谱系](/mmexport1730533964349.jpg)
 
 
 ## 业余爱好
