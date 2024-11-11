@@ -18,7 +18,7 @@ Hola, amigos de todo el mundo.
 
 ## 赵兰浩
 
-1996年生，山东枣庄人，随手记录，一笑度过。
+1996年生，山东枣庄人，简单又复杂的生物。
 
 ## 求学经历
 
@@ -51,7 +51,7 @@ Hola, amigos de todo el mundo.
 ### 英文期刊
 Chen Yangzhou，Zhao lanhao. Partial state consensus and output consensus in heterogeneous multi-agent systems. UR
 
-Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability of General Linear Discrete Multiagent Systems with Directed and Weighted Signed Network. J Syst Sci Complex (2022). （JCR Q1）
+Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability of General Linear Discrete Multiagent Systems with Directed and Weighted Signed Network. J Syst Sci Complex (2022). （SCI期刊，国内系统科学与管理科学领域权威期刊，JCR Q1）
 
 ### EI 会议
 
@@ -61,7 +61,7 @@ Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability of General Line
 
 ### 中文核心期刊
 
-[1]赵兰浩,纪志坚.符号网络条件下扩散耦合多智能体系统的可控性分析[J].系统科学与数学,2021,41(06):1455-1466. （中文核心）
+[1]赵兰浩,纪志坚.符号网络条件下扩散耦合多智能体系统的可控性分析[J].系统科学与数学,2021,41(06):1455-1466. （卓越期刊行动计划梯队期刊，中文核心期刊）
 
 ### 中文其他刊物
 
