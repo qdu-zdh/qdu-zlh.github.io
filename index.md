@@ -51,7 +51,7 @@ Hola, amigos de todo el mundo.
 ### 英文期刊
 Chen Yangzhou，Zhao lanhao. Partial state consensus and output consensus in heterogeneous multi-agent systems. UR
 
-Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability of General Linear Discrete Multiagent Systems with Directed and Weighted Signed Network. J Syst Sci Complex (2022). （SCI期刊，国内系统科学与管理科学领域权威期刊，JCR Q1）
+Zhao lanhao, Ji Zhijian, Liu Yungang, Lin Chong. Controllability of General Linear Discrete Multiagent Systems with Directed and Weighted Signed Network. J Syst Sci Complex (2022). （SCI期刊，国内系统科学领域权威期刊，JCR Q1）
 
 ### EI 会议
 
