@@ -296,7 +296,7 @@ HITMAN、狙击精英、霍格沃茨之遗、神秘海域、秘密潜入、细�
 
 知乎、微信公众号：@系统与控制
 
-X：@System control
+X：System control
 
 ## 最后但非结束
 
