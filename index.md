@@ -184,15 +184,13 @@ https://doi.org/10.48550/arXiv.2204.00995
 
 ## 兼职
 
-作为审稿人，参与
-
 Transactions of the Institute of Measurement and Control
 
 Journal of Control and Decision
 
 Franklin Open
 
-中国自动化大会等国内外重要学术期刊和学术会议审稿
+中国自动化大会等国内外重要学术期刊和学术会议审稿人
 
 中国自动化学会重要学术会议目录评审专家
 
