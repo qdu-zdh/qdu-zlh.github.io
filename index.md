@@ -192,7 +192,7 @@ Journal of Control and Decision
 
 Franklin Open
 
-中国自动化大会等国内外重要学术期刊和学术会议审稿人
+中国自动化大会等国内外重要学术期刊和学术会议审稿
 
 中国自动化学会重要学术会议目录评审专家
 
